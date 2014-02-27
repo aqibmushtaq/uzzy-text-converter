@@ -1,9 +1,10 @@
+do you   = dyu
+want a   = wna
 already  = alredi
 always   = alwais
 are      = r
 does     = dus
 don't    = dnt
-do       = you
 ever     = eva
 for      = fr
 hows     = ows

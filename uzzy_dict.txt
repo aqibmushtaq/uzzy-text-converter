@@ -13,6 +13,7 @@ is       = iz
 just     = jus
 like     = lyk
 mine     = myn
+mine's   = myns
 never    = neva
 that     = dt
 think    = fink
